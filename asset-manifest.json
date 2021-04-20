@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/light-md-vk-feed/static/css/main.932c4315.chunk.css",
+    "main.js": "/light-md-vk-feed/static/js/main.e50c19f2.chunk.js",
+    "main.js.map": "/light-md-vk-feed/static/js/main.e50c19f2.chunk.js.map",
+    "runtime-main.js": "/light-md-vk-feed/static/js/runtime-main.4551fe84.js",
+    "runtime-main.js.map": "/light-md-vk-feed/static/js/runtime-main.4551fe84.js.map",
+    "static/js/2.ec49f5b6.chunk.js": "/light-md-vk-feed/static/js/2.ec49f5b6.chunk.js",
+    "static/js/2.ec49f5b6.chunk.js.map": "/light-md-vk-feed/static/js/2.ec49f5b6.chunk.js.map",
+    "static/js/3.c9c54206.chunk.js": "/light-md-vk-feed/static/js/3.c9c54206.chunk.js",
+    "static/js/3.c9c54206.chunk.js.map": "/light-md-vk-feed/static/js/3.c9c54206.chunk.js.map",
+    "index.html": "/light-md-vk-feed/index.html",
+    "static/css/main.932c4315.chunk.css.map": "/light-md-vk-feed/static/css/main.932c4315.chunk.css.map",
+    "static/js/2.ec49f5b6.chunk.js.LICENSE.txt": "/light-md-vk-feed/static/js/2.ec49f5b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4551fe84.js",
+    "static/js/2.ec49f5b6.chunk.js",
+    "static/css/main.932c4315.chunk.css",
+    "static/js/main.e50c19f2.chunk.js"
+  ]
+}
